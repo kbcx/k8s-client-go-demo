@@ -1,0 +1,4 @@
+[submodule "ui"]
+	path = ui
+	url = git@github.com:kbcx/k8s-client-go-demo-ui.git
+	branch = main
